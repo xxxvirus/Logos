@@ -1,0 +1,35 @@
+.filter .control-label {
+	text-align: left;
+}
+
+.filter span {
+	display: block;
+}
+
+.posterShop {
+	width: 230px;
+	height: 350px;
+	margin-top: 15px;
+}
+
+.poster {
+	width: 140px;
+	height: 200px;
+}
+
+.textBlock {
+	color: #92864d;
+	font-family: Verdana, Geneva, serif;
+	font-size: 16px;
+}
+.textBlockText{
+	font-family: Verdana, Geneva, serif;
+    color: #333333;
+    font-size: 16px;
+}
+.price{
+	color: red;
+}
+.anotationText{
+	text-indent: 1.8em;
+}
